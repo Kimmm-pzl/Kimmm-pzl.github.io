@@ -8,7 +8,7 @@ positions:
   logo: /assets/images/badges/PKU_red.png
 
 email: "panzl612@stu.pku.edu.cn"
-# cv_link: /assets/files/Zilin_Pan_CV.pdf
+cv_link: /assets/files/Pan_Zilin_CV.pdf
 
 # Fill these in later after you confirm your accounts.
 # gscholar: your_google_scholar_id
@@ -25,7 +25,7 @@ short_bio: >-
     advised by the School of Electronic and Computer Engineering.
   </p>
   <p>
-    My research interests focus on <strong>Embodied AI</strong> and <strong>video generation</strong>. I work on video-model
+    My research interests focus on <strong>Embodied AI</strong> and <strong>Video Generation</strong>. I work on video-model
     evaluation, large-scale robotic data curation, multimodal training, and
     efficient video-based action modeling. My goal is to bridge generative world
     models with downstream control for reliable robotic execution.
