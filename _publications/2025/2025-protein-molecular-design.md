@@ -3,7 +3,7 @@ title: "Pre-trained Language Models for Protein and Molecular Design"
 
 date: 2025-06-01 00:00:00 +0800
 
-selected: true
+selected: false
 
 pub: "Physical Chemistry Chemical Physics"
 
