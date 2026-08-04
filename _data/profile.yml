@@ -3,7 +3,6 @@ secondary_name: ""
 navbar_name: "Zilin Pan"
 
 positions:
-- name: Master's Student
 - name: Peking University Shenzhen Graduate School
   logo: /assets/images/badges/PKU_red.png
 
@@ -20,15 +19,14 @@ github: Kimmm-pzl
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a second-year Master's student at
+    I am a Master's student at
     <a href="https://www.pkusz.edu.cn/" target="_blank">Peking University Shenzhen Graduate School</a>,
     advised by the School of Electronic and Computer Engineering.
   </p>
   <p>
-    My research interests focus on <strong>Embodied AI</strong> and <strong>Video Generation</strong>. I work on video-model
-    evaluation, large-scale robotic data curation, multimodal training, and
-    efficient video-based action modeling. My goal is to bridge generative world
-    models with downstream control for reliable robotic execution.
+    My research interests focus on <strong>Embodied AI</strong> and <strong>Video Generation</strong>. I have experience in
+    video and VLA/WAM modeling, physical-consistency modeling and evaluation,
+    multi-event video generation, and large-scale robotic video data curation and preprocessing.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
